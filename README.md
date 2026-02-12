@@ -1,2 +1,2 @@
 # Automated_Pull_Request
-Creating an automated pull request system
+Creating an automated cloning and pull request system. Put your GitHub username, Personal Access Token and the code will do the rest of the cloning and pulling job by creating a new folder on the desktop
